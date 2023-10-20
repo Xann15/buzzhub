@@ -1,0 +1,1 @@
+<img src="https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl=http%3A%2F%2F192.168.1.10:8080%2Fmyapp%2Fprofile%2F?q=profile%26id=9%2F&choe=UTF-8" title="Link to Google.com" />
